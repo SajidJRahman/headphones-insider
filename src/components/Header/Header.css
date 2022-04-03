@@ -1,16 +1,22 @@
 .navbar-links {
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .navbar-links a {
     text-decoration: none;
-    text-decoration-thickness: 3px;
-    text-underline-offset: 12px;
-    border-bottom: 3px solid;
     padding-bottom: 10px;
     color: black;
-    font-weight: 600;
+    font-weight: 700;
     margin: 20px;
     padding-top: 10px;
+}
+
+.navbar-links a:hover {
+    color: rgb(17, 150, 255);
+    border: 1px solid rgb(17, 150, 255);
+    margin: 11px;
+    padding: 5px 8px;
+    border-radius: 5px;
 }
