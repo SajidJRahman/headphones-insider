@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+.home-container {
+    display: flex;
+    align-items: center;
+}
+
+.home-details h1 {
+    font-family: 'Yeseva One', cursive;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.home-details {
+    margin-right: 30px;
+}
+
+.home-details p {
+    color: rgb(106, 106, 106);
+    font-size: 20px;
+    margin: 20px 0px 35px 0px;
+}
+
+.home-details button {
+    border: none;
+    padding: 15px 35px;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom, rgb(61, 181, 255), rgb(17, 132, 255));
+    font-weight: bold;
+    color: white;
+}
+
+.home-image {
+    width: 550px;
+    border-radius: 10px;
+}
