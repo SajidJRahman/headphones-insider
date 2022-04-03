@@ -1,0 +1,28 @@
+.not-found {
+    padding-top: 360px;
+    background-image: url(../../images/not-found/404.png);
+    background-size: 75%;
+    background-position: 50%;
+    background-repeat: no-repeat;
+}
+
+.not-found h1 {
+    font-size: 120px;
+    text-align: center;
+}
+
+.not-found h2 {
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: rgb(131, 131, 131);
+}
+
+.not-found button {
+    border: none;
+    background-color: rgb(17, 152, 255);
+    color: white;
+    padding: 7px 25px;
+    border-radius: 5px;
+    font-weight: bold;
+    position: relative;
+}
