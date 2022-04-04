@@ -13,6 +13,7 @@
 
 .manage-reviews p {
     font-family: 'Roboto', sans-serif;
+    margin-bottom: 0px;
 }
 
 .manage-reviews img {
@@ -24,4 +25,5 @@
     color: orange;
     font-weight: bold;
     font-size: 22px;
+    padding-bottom: 10px;
 }
