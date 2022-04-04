@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.questions {
+    /* display: flex; */
+}
+
+.questions div {
+    border: 1px solid rgb(124, 124, 124);
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.questions div h1 {
+    font-size: 22px;
+    border-bottom: 1px solid rgb(124, 124, 124);
+    padding: 20px 0px;
+    background-color: black;
+    color: white;
+    border-radius: 9px 9px 0px 0px;
+}
+
+.questions div p {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid rgb(124, 124, 124);
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 19px;
+    margin: 15px;
+}
