@@ -34,3 +34,80 @@
     width: 550px;
     border-radius: 10px;
 }
+
+@media only screen and (max-width: 992px) {
+    .home-details h1 {
+        font-size: 40px;
+    }
+
+    .home-details p {
+        font-size: 15px;
+    }
+
+    .home-details button {
+        padding: 10px 25px;
+    }
+
+    .home-image {
+        width: 380px;
+        border-radius: 10px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .home-details h1 {
+        font-size: 30px;
+    }
+
+    .home-details p {
+        font-size: 12px;
+    }
+
+    .home-details button {
+        padding: 5px 25px;
+    }
+
+    .home-image {
+        width: 300px;
+        border-radius: 10px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .home-container {
+        flex-direction: column-reverse;
+    }
+
+    .home-details {
+        text-align: center;
+        margin: 0px;
+    }
+
+    .home-image {
+        width: 450px;
+        margin-bottom: 25px;
+        border-radius: 10px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .home-image {
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .home-image {
+        width: 330px;
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .home-details h1 {
+        font-size: 25px;
+    }
+
+    .home-image {
+        width: 270px;
+    }
+}

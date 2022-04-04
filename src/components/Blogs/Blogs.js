@@ -4,7 +4,7 @@ import './Blogs.css';
 const Blogs = () => {
     return (
         <div>
-            <h1 className='text-center my-5'>Frequently Asked Questions</h1>
+            <h1 className='faq text-center my-5'>Frequently Asked Questions</h1>
             <div className='questions'>
                 <div className='text-center m-5'>
                     <h1>What is Context API?</h1>

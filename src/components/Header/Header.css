@@ -20,3 +20,38 @@
     padding: 5px 8px;
     border-radius: 5px;
 }
+
+@media only screen and (max-width: 500px) {
+    .navbar-links a {
+        font-size: 15px;
+        margin: 10px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .navbar-links a {
+        font-size: 15px;
+        margin: 10px;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .navbar-links a {
+        font-size: 12px;
+        margin: 10px;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .navbar-links a {
+        font-size: 10px;
+        margin: 13px;
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .navbar-links a {
+        font-size: 10px;
+        margin: 5px;
+    }
+}

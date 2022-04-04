@@ -7,7 +7,7 @@ const ManageReviews = (props) => {
     return (
         <div className='manage-reviews text-center'>
             <img src={image} alt="" />
-            <h2>{name}</h2>
+            <h3>{name}</h3>
             <p className='star'>{rating}</p>
             <p>{text}</p>
         </div>
