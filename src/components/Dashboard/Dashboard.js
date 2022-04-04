@@ -104,7 +104,7 @@ const Dashboard = () => {
                 <div className='d-block text-center'>
                     <h4 className='pt-3 pb-0'>Investment VS Revanue</h4>
                     <PieChart width={400} height={400}>
-                        <Pie data={data} dataKey="investment" cx="50%" cy="50%" outerRadius={110} fill="#8884d8" />
+                        <Pie data={data} dataKey="investment" cx="50%" cy="50%" outerRadius={105} fill="#8884d8" />
                         <Pie data={data} dataKey="revenue" cx="50%" cy="50%" innerRadius={120} outerRadius={150} fill="#82ca9d" label />
                         <Tooltip />
                     </PieChart>

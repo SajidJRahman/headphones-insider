@@ -1,44 +1,44 @@
 [
     {
         "id": "1",
-        "image": "https://www.beatsbydre.com/content/dam/beats/web/product/earbuds/beats-fit-pro/plp/bbd.plpasset.earbuds.fitpro-v2.jpg.large.1x.jpg",
-        "name": "Beats Fit Pro",
-        "text": "",
-        "rating": "4/5"
+        "image": "https://randomuser.me/api/portraits/women/95.jpg",
+        "name": "Edith Mendoza",
+        "rating": "★★★★★",
+        "text": "I really love their service! Honest analysis! They helped me choosing the right product!"
     },
     {
-        "id": "1",
-        "image": "https://www.beatsbydre.com/content/dam/beats/web/product/earbuds/beats-fit-pro/plp/bbd.plpasset.earbuds.fitpro-v2.jpg.large.1x.jpg",
-        "name": "Beats Fit Pro",
-        "text": "",
-        "rating": "4.5/5"
+        "id": "2",
+        "image": "https://randomuser.me/api/portraits/men/34.jpg",
+        "name": "Dale Sanders",
+        "rating": "★★★★★",
+        "text": "Their analysis is very much accurate! They actually provide the best services possible! Appreciate it!"
     },
     {
-        "id": "1",
-        "image": "https://www.beatsbydre.com/content/dam/beats/web/product/earbuds/beats-fit-pro/plp/bbd.plpasset.earbuds.fitpro-v2.jpg.large.1x.jpg",
-        "name": "Beats Fit Pro",
-        "text": "",
-        "rating": "4/5"
+        "id": "3",
+        "image": "https://randomuser.me/api/portraits/women/21.jpg",
+        "name": "Heidi Miller",
+        "rating": "★★★★☆",
+        "text": "Without their service, I am unable to to recognize the best product on the market. Thanks!"
     },
     {
-        "id": "1",
-        "image": "https://www.beatsbydre.com/content/dam/beats/web/product/earbuds/beats-fit-pro/plp/bbd.plpasset.earbuds.fitpro-v2.jpg.large.1x.jpg",
-        "name": "Beats Fit Pro",
-        "text": "",
-        "rating": "4.8/5"
+        "id": "4",
+        "image": "https://randomuser.me/api/portraits/men/11.jpg",
+        "name": "Darryl Curtis",
+        "rating": "★★★★☆",
+        "text": "One of the best analysis website on the internet! I made the right decision by choosing their service!"
     },
     {
-        "id": "1",
-        "image": "https://www.beatsbydre.com/content/dam/beats/web/product/earbuds/beats-fit-pro/plp/bbd.plpasset.earbuds.fitpro-v2.jpg.large.1x.jpg",
-        "name": "Beats Fit Pro",
-        "text": "",
-        "rating": "4.7/5"
+        "id": "5",
+        "image": "https://randomuser.me/api/portraits/women/26.jpg",
+        "name": "Connie Howell",
+        "rating": "★★★★★",
+        "text": "Just unbelievable how helpful their analysis are! I am pretty impressed with them!"
     },
     {
-        "id": "1",
-        "image": "https://www.beatsbydre.com/content/dam/beats/web/product/earbuds/beats-fit-pro/plp/bbd.plpasset.earbuds.fitpro-v2.jpg.large.1x.jpg",
-        "name": "Beats Fit Pro",
-        "text": "",
-        "rating": "4.4/5"
+        "id": "6",
+        "image": "https://randomuser.me/api/portraits/men/15.jpg",
+        "name": "Gerald Day",
+        "rating": "★★★★☆",
+        "text": "People say the best analyst can be found here, well I can't disagree with people!"
     }
 ]
