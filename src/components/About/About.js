@@ -3,8 +3,8 @@ import './About.css';
 
 const About = () => {
     return (
-        <div>
-            <h1>this is about us</h1>
+        <div className='text-center'>
+            <h1 className='py-5'>About Us</h1>
         </div>
     );
 };

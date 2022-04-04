@@ -1,0 +1,9 @@
+.charts div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.charts div div h4 {
+    color: rgb(32, 140, 255);
+}
