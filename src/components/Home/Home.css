@@ -8,7 +8,7 @@
 .home-details h1 {
     font-family: 'Yeseva One', cursive;
     font-weight: bolder;
-    font-size: 43px;
+    font-size: 50px;
 }
 
 .home-details {
@@ -33,6 +33,10 @@
 .home-image {
     width: 550px;
     border-radius: 10px;
+}
+
+.home-review-header {
+    font-family: 'Roboto', sans-serif;
 }
 
 .see-all-reviews {

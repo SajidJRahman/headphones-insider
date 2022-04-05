@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.manage-home-reviews {
+    border: 1px solid rgb(222, 222, 222);
+    box-shadow: 0 0 0, 0 0 10px #e2e2e2;
+    border-radius: 10px;
+    padding: 30px 20px;
+}
+
+.manage-home-reviews h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.manage-home-reviews p {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0px;
+}
+
+.manage-home-reviews img {
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
