@@ -18,7 +18,7 @@ const Home = () => {
                     <button className='btn'>Live Demo</button>
                 </div>
                 <div>
-                    <img className='home-image' width='550px' src={require('../../images/product/headphone.jpg')} alt="" />
+                    <img className='home-image' width='550px' src={require('../../images/product/headphone-1.jpg')} alt="" />
                 </div>
             </div>
             <div className='text-center'>

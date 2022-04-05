@@ -3,3 +3,47 @@
 .about-us {
     font-family: 'Roboto', sans-serif;
 }
+
+.about-us p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.about-us-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-us-images img {
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.copyright {
+    color: rgb(154, 154, 154);
+    font-size: 15px;
+}
+
+@media only screen and (max-width: 992px) {
+    .about-us-images {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .about-us-images {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .about-us-images img {
+        width: 350px;
+    }
+}
+
+@media only screen and (max-width: 340px) {
+    .about-us-images img {
+        width: 310px;
+    }
+}
